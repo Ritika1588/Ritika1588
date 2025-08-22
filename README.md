@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/ritika-singh-b17835290/" target="_blank">  
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">  
   </a>  
-  <a href="ritikasingh1588@gmail.com">  
+  <a href="mailto:ritikasingh1588@gmail.com">  
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">  
   </a>  
 </p>  

@@ -25,7 +25,7 @@
 </tr></table>
 
 ---  
-### 🔥 Tech Stack & Skills
+## 🔥 Tech Stack & Skills
 
 **💻 Programming Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
